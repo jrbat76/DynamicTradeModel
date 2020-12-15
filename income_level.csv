@@ -1,0 +1,218 @@
+﻿CountryName,Country_Code,IncomeLevel
+Afghanistan,AFG,low
+Burkina Faso,BFA,low
+Burundi,BDI,low
+Central African Republic,CAF,low
+Chad,TCD,low
+"Congo, Dem. Rep.",COD,low
+Eritrea,ERI,low
+Ethiopia,ETH,low
+"Gambia, The",GMB,low
+Guinea,GIN,low
+Guinea-Bissau,GNB,low
+Haiti,HTI,low
+"Korea, Dem. People’s Rep.",PRK,low
+Liberia,LBR,low
+Madagascar,MDG,low
+Malawi,MWI,low
+Mali,MLI,low
+Mozambique,MOZ,low
+Niger,NER,low
+Rwanda,RWA,low
+Sierra Leone,SLE,low
+Somalia,SOM,low
+South Sudan,SSD,low
+Sudan,SDN,low
+Syrian Arab Republic,SYR,low
+Tajikistan,TJK,low
+Togo,TGO,low
+Uganda,UGA,low
+"Yemen, Rep.",YEM,low
+Albania,ALB,upper middle
+American Samoa,ASM,upper middle
+Argentina,ARG,upper middle
+Armenia,ARM,upper middle
+Azerbaijan,AZE,upper middle
+Belarus,BLR,upper middle
+Belize,BLZ,upper middle
+Bosnia and Herzegovina,BIH,upper middle
+Botswana,BWA,upper middle
+Brazil,BRA,upper middle
+Bulgaria,BGR,upper middle
+China,CHN,upper middle
+Colombia,COL,upper middle
+Costa Rica,CRI,upper middle
+Cuba,CUB,upper middle
+Dominica,DMA,upper middle
+Dominican Republic,DOM,upper middle
+Ecuador,ECU,upper middle
+Equatorial Guinea,GNQ,upper middle
+Fiji,FJI,upper middle
+Gabon,GAB,upper middle
+Georgia,GEO,upper middle
+Grenada,GRD,upper middle
+Guatemala,GTM,upper middle
+Guyana,GUY,upper middle
+Indonesia,IDN,upper middle
+"Iran, Islamic Rep.",IRN,upper middle
+Iraq,IRQ,upper middle
+Jamaica,JAM,upper middle
+Jordan,JOR,upper middle
+Kazakhstan,KAZ,upper middle
+Kosovo,XKX,upper middle
+Lebanon,LBN,upper middle
+Libya,LBY,upper middle
+Malaysia,MYS,upper middle
+Maldives,MDV,upper middle
+Marshall Islands,MHL,upper middle
+Mexico,MEX,upper middle
+Montenegro,MNE,upper middle
+Namibia,NAM,upper middle
+North Macedonia,MKD,upper middle
+Paraguay,PRY,upper middle
+Peru,PER,upper middle
+Russian Federation,RUS,upper middle
+Samoa,WSM,upper middle
+Serbia,SRB,upper middle
+South Africa,ZAF,upper middle
+St. Lucia,LCA,upper middle
+St. Vincent and the Grenadines,VCT,upper middle
+Suriname,SUR,upper middle
+Thailand,THA,upper middle
+Tonga,TON,upper middle
+Turkey,TUR,upper middle
+Turkmenistan,TKM,upper middle
+Tuvalu,TUV,upper middle
+"Venezuela, RB",VEN,upper middle
+Algeria,DZA,lower middle 
+Angola,AGO,lower middle 
+Bangladesh,BGD,lower middle 
+Benin,BEN,lower middle 
+Bhutan,BTN,lower middle 
+Bolivia,BOL,lower middle 
+Cabo Verde,CPV,lower middle 
+Cambodia,KHM,lower middle 
+Cameroon,CMR,lower middle 
+Comoros,COM,lower middle 
+"Congo, Rep.",COG,lower middle 
+Cote d'Ivoire,CIV,lower middle 
+Djibouti,DJI,lower middle 
+"Egypt, Arab Rep.",EGY,lower middle 
+El Salvador,SLV,lower middle 
+Eswatini,SWZ,lower middle 
+Ghana,GHA,lower middle 
+Honduras,HND,lower middle 
+India,IND,lower middle 
+Kenya,KEN,lower middle 
+Kiribati,KIR,lower middle 
+Kyrgyz Republic,KGZ,lower middle 
+Lao PDR,LAO,lower middle 
+Lesotho,LSO,lower middle 
+Mauritania,MRT,lower middle 
+"Micronesia, Fed. Sts.",FSM,lower middle 
+Moldova,MDA,lower middle 
+Mongolia,MNG,lower middle 
+Morocco,MAR,lower middle 
+Myanmar,MMR,lower middle 
+Nepal,NPL,lower middle 
+Nicaragua,NIC,lower middle 
+Nigeria,NGA,lower middle 
+Pakistan,PAK,lower middle 
+Papua New Guinea,PNG,lower middle 
+Philippines,PHL,lower middle 
+Sao Tome and Principe,STP,lower middle 
+Senegal,SEN,lower middle 
+Solomon Islands,SLB,lower middle 
+Sri Lanka,LKA,lower middle 
+Tanzania,TZA,lower middle 
+Timor-Leste,TLS,lower middle 
+Tunisia,TUN,lower middle 
+Ukraine,UKR,lower middle 
+Uzbekistan,UZB,lower middle 
+Vanuatu,VUT,lower middle 
+Vietnam,VNM,lower middle 
+West Bank and Gaza,PSE,lower middle 
+Zambia,ZMB,lower middle 
+Zimbabwe,ZWE,lower middle 
+Andorra,AND,higher
+Antigua and Barbuda,ATG,higher
+Aruba,ABW,higher
+Australia,AUS,higher
+Austria,AUT,higher
+"Bahamas, The",BHS,higher
+Bahrain,BHR,higher
+Barbados,BRB,higher
+Belgium,BEL,higher
+Bermuda,BMU,higher
+British Virgin Islands,VGB,higher
+Brunei Darussalam,BRN,higher
+Canada,CAN,higher
+Cayman Islands,CYM,higher
+Channel Islands,CHI,higher
+Chile,CHL,higher
+Croatia,HRV,higher
+Curacao,CUW,higher
+Cyprus,CYP,higher
+Czech Republic,CZE,higher
+Denmark,DNK,higher
+Estonia,EST,higher
+Faroe Islands,FRO,higher
+Finland,FIN,higher
+France,FRA,higher
+French Polynesia,PYF,higher
+Germany,DEU,higher
+Gibraltar,GIB,higher
+Greece,GRC,higher
+Greenland,GRL,higher
+Guam,GUM,higher
+"Hong Kong SAR, China",HKG,higher
+Hungary,HUN,higher
+Iceland,ISL,higher
+Ireland,IRL,higher
+Isle of Man,IMN,higher
+Israel,ISR,higher
+Italy,ITA,higher
+Japan,JPN,higher
+"Korea, Rep.",KOR,higher
+Kuwait,KWT,higher
+Latvia,LVA,higher
+Liechtenstein,LIE,higher
+Lithuania,LTU,higher
+Luxembourg,LUX,higher
+"Macao SAR, China",MAC,higher
+Malta,MLT,higher
+Mauritius,MUS,higher
+Monaco,MCO,higher
+Nauru,NRU,higher
+Netherlands,NLD,higher
+New Caledonia,NCL,higher
+New Zealand,NZL,higher
+Northern Mariana Islands,MNP,higher
+Norway,NOR,higher
+Oman,OMN,higher
+Palau,PLW,higher
+Panama,PAN,higher
+Poland,POL,higher
+Portugal,PRT,higher
+Puerto Rico,PRI,higher
+Qatar,QAT,higher
+Romania,ROU,higher
+San Marino,SMR,higher
+Saudi Arabia,SAU,higher
+Seychelles,SYC,higher
+Singapore,SGP,higher
+Sint Maarten (Dutch part),SXM,higher
+Slovak Republic,SVK,higher
+Slovenia,SVN,higher
+Spain,ESP,higher
+St. Kitts and Nevis,KNA,higher
+St. Martin (French part),MAF,higher
+Sweden,SWE,higher
+Switzerland,CHE,higher
+Trinidad and Tobago,TTO,higher
+Turks and Caicos Islands,TCA,higher
+United Arab Emirates,ARE,higher
+United Kingdom,GBR,higher
+United States,USA,higher
+Uruguay,URY,higher
+Virgin Islands (U.S.),VIR,higher
